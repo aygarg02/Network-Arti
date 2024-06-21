@@ -1,0 +1,54 @@
+<mxfile host="app.diagrams.net" modified="2024-06-21T15:19:57.869Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="jjZ3AqqLdtkU_rkU1jla" version="24.6.0" type="device">
+  <diagram name="Page-1" id="r13B-zuawQ30Zx1hPI4i">
+    <mxGraphModel dx="1822" dy="1035" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="d5bp6mValv5AwdAkatjR-17" value="fiber" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="d5bp6mValv5AwdAkatjR-7" target="d5bp6mValv5AwdAkatjR-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d5bp6mValv5AwdAkatjR-7" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/switch/Switch_24_port_L3.svg;" vertex="1" parent="1">
+          <mxGeometry x="750" y="773.42" width="64.4" height="44.15" as="geometry" />
+        </mxCell>
+        <mxCell id="d5bp6mValv5AwdAkatjR-8" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/switch/Switch_24_port_L3.svg;" vertex="1" parent="1">
+          <mxGeometry x="130" y="776.57" width="59.81" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="d5bp6mValv5AwdAkatjR-9" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/switch/Switch_24_port_L3.svg;" vertex="1" parent="1">
+          <mxGeometry x="700" y="330" width="74.4" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="d5bp6mValv5AwdAkatjR-18" value="fiber" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="d5bp6mValv5AwdAkatjR-10" target="d5bp6mValv5AwdAkatjR-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d5bp6mValv5AwdAkatjR-10" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/switch/Switch_24_port_L3.svg;" vertex="1" parent="1">
+          <mxGeometry x="450" y="770" width="74.4" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="d5bp6mValv5AwdAkatjR-11" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/switch/Switch_24_port_L3.svg;" vertex="1" parent="1">
+          <mxGeometry x="170" y="330" width="74.4" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="d5bp6mValv5AwdAkatjR-15" value="fiber" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="d5bp6mValv5AwdAkatjR-9" target="d5bp6mValv5AwdAkatjR-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="610" as="sourcePoint" />
+            <mxPoint x="460" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d5bp6mValv5AwdAkatjR-16" value="fiber" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.059;entryY=0.843;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="d5bp6mValv5AwdAkatjR-7" target="d5bp6mValv5AwdAkatjR-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d5bp6mValv5AwdAkatjR-19" value="fiber" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.134;entryY=0.784;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="d5bp6mValv5AwdAkatjR-8" target="d5bp6mValv5AwdAkatjR-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d5bp6mValv5AwdAkatjR-21" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="d5bp6mValv5AwdAkatjR-20" target="d5bp6mValv5AwdAkatjR-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d5bp6mValv5AwdAkatjR-20" value="" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#A153A0;strokeColor=#ffffff;verticalAlign=top;align=center;points=[[0,0.5,0],[0.125,0.25,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[0.875,0.25,0],[1,0.5,0],[0.875,0.75,0],[0.75,1,0],[0.5,1,0],[0.125,0.75,0]];pointerEvents=1;shape=mxgraph.cisco_safe.compositeIcon;bgIcon=mxgraph.cisco_safe.design.blank_device;resIcon=mxgraph.cisco_safe.design.l3_switch;" vertex="1" parent="1">
+          <mxGeometry x="30" y="270" width="50" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="d5bp6mValv5AwdAkatjR-22" value="cluster level network&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="910" width="295" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
